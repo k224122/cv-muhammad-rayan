@@ -29,7 +29,7 @@
                       Python, Java, C++</b></li>
                     <li><b>Frontend : HTML5, CSS3, 
                       JavaScript, React</b></li>
-                    <li><b>Backend : Node.js</b></li>
+                    <li><b> good public speaking skills</b></li>
                 </ul>
             </div>
             <div class="Language">
